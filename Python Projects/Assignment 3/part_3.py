@@ -1,9 +1,3 @@
-"""
- *   Authers: Maor Arnon (ID: 205974553) and Vlad Kelar (ID:320467335)
- *            Emails: maorar1@ac.sce.ac.il    angerag3@Gmail.com
- *   Department of Computer Engineering - Assignment 2 / Part 1 - Principles of software languages
-"""
-
 class node:
     """
     a value and 'pointer' to the next node , used in LinkedList
