@@ -1,0 +1,18 @@
+City; Ashdod; 731;182; 50;90; 7000
+City; Eilat; 815;1221; 40;40; 4000
+City; Beer-Sheva; 663;777; 80;80; 2300
+Moshav; Adirim; 687;332; 40;50; 900
+City; Kiryat-Gat; 916;276; 80;90; 3400
+Moshav; Gefet; 372;359; 25;50; 600
+City; Jerusalem; 469;372; 80;80; 13000
+City; Tel-Aviv; 647;12; 60;60; 11000
+City; Rehovot; 378;91; 40;50; 4000
+City; Tevria; 473;37; 80;80; 1700
+Kibbutz; Palmahim; 180;347; 40;40; 1000
+Kibbutz; Gesher; 463;617; 40;50; 1100
+#; Ashdod; Adirim
+#; Ashdod; Tel-Aviv
+#; Rehovot; Palmahim
+#; Tevria; Gefet
+#; Tel-Aviv; Jerusalem
+#; Beer-Sheva; Kiryat-Gat
